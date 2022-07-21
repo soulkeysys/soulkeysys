@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @soulkeysys
+- 👋 Hi, I’m Gift Sokiri
 - 👀 I’m interested in back end programming using C#
-- 🌱 I’m currently learning Blazor web assembly
+- 🌱 I’m currently learning Full stack Development using Blazor web assembly
 - 💞️ I’m looking to collaborate on projects using C#
 - 📫 You can reach me on email gsokiri@gmail.com or Call and WhatApp +26377070053
 
